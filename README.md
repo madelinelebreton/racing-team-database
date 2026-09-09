@@ -51,7 +51,3 @@ Created as part of a Database Foundations course at Université Grenoble Alpes
 - Madeline LeBreton
 - André Mendes
 - Artur Martins
-
-## Technologies
-- **SQL**
-- PostgreSQL
